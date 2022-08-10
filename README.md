@@ -15,6 +15,7 @@ The code is divided into separate modules
 2. Mod2: organise routines
 3. Mod3: file sending routines
 4. Mod4: directory validation routine
+5. dat1types: contains the supported filetypes object
 
 # Requirements 
 1. Node.js 
