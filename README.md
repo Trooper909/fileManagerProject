@@ -1,4 +1,6 @@
 # fileManagerProject
+
+# Overview
 The aim  of the code is to segregate the files into folders corresponding to their file-types category. 
 Note: a single category might contain several filtypes, for e.g. 'audio' category represents 'mp3', 'wav' and 'flac' types.
 
