@@ -6,9 +6,9 @@ Change the directory path in the main.js file to the directory you wish to manag
 
 # Description
 The code is divided into separate modules 
-Mod1 -> main file
-Mod2 -> organise routines
-Mod3 -> file sending routines
-Mod4 -> directory validation routine
+1. Mod1 -> main file
+2. Mod2 -> organise routines
+3. Mod3 -> file sending routines
+4. Mod4 -> directory validation routine
 
 
