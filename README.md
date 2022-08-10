@@ -8,7 +8,7 @@ Change the directory path in the main.js file to the directory you wish to manag
 1. Number of filetypes Supported: 33
 2. Scalability: Can be incremented by updating the 'dat1Types.js.' files.
 3. Modulatrity: The code is written with a perspective of different machine parts working together. 
-    3.1 mod1main.js - main file that interacts with other working parts and delivers the results.
+    a. mod1main.js - main file that interacts with other working parts and delivers the results.
 
 
 
