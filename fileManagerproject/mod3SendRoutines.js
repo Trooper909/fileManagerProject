@@ -41,7 +41,7 @@ function sendFile(src, contentList) {
         ext = ext.slice(1);
 
 
-        //STAGE II: Bifucation File / Folder
+        //STAGE II: Bifurcation File / Folder
 
         switch (ext) {
             case '': ;
